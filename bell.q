@@ -1,0 +1,5 @@
+# Bell state: two qubits that always agree
+qubits(2)
+H(0)
+CNOT(0, 1)
+measure()
